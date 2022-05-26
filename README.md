@@ -1,1 +1,1 @@
-This is a directory that contains files with executable scripts.
+read me for new permissions project
